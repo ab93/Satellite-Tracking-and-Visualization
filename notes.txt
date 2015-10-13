@@ -1,0 +1,2 @@
+- startProcess() needs to be called so that the TLE files are successfully loaded.
+- startProcess() is called in initializeGL function in glwidget.cpp
